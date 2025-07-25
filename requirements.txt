@@ -1,0 +1,16 @@
+# Core RL and ML libraries
+gymnasium>=0.29.0
+torch>=2.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Reinforcement Learning
+cleanrl>=1.1.0
+pufferlib
+
+# Visualization and plotting
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.64.0
