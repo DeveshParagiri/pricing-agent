@@ -147,13 +147,6 @@ Core libraries:
 
 See `requirements.txt` for complete dependency list with versions.
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
