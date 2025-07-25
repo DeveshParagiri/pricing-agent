@@ -32,7 +32,8 @@ refactor/
 │   ├── pricing_comparison.png           # V1 results
 │   ├── pricing_comparison_v2.png        # V2 results
 │   └── final_pricing_comparison_v3.png  # V3 results
-├── run_experiments.py     # Main script to run experiments
+├── run_all_experiments.py  # Main script to run experiments
+├── run_experiments.py     
 ├── requirements.txt       # Python dependencies
 └── README.md             # This file
 ```
